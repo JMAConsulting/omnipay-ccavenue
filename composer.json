@@ -1,5 +1,5 @@
 {
-    "name": "dioscouri/omnipay-ccavenue",
+    "name": "jmaconsulting/omnipay-ccavenue",
     "type": "library",
     "description": "CCAvenue support for Omnipay payment processing library",
     "keywords": [
@@ -11,7 +11,7 @@
         "payment",
         "purchase"
     ],
-    "homepage": "https://github.com/dioscouri/omnipay-ccavenue",
+    "homepage": "https://github.com/jmaconsulting/omnipay-ccavenue",
     "license": "MIT",
     "authors": [
         {
@@ -23,9 +23,9 @@
         "psr-4": { "Omnipay\\CCAvenue\\" : "src/" }
     },
     "require": {
-        "omnipay/common": "~2.0"
+        "omnipay/common": "~3.1"
     },
     "require-dev": {
-        "omnipay/tests": "~2.0"
+        "omnipay/tests": "~3.1"
     }
 }
